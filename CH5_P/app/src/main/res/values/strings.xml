@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CH5_P</string>
+    <string name="ViewPicture">사진보기</string>
+    <string name="Hide">사진 감추기</string>
+</resources>
