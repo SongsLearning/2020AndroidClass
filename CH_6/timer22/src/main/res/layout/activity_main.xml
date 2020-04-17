@@ -10,11 +10,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Chronometer 을 이용한 타이머" />
+        android:text="Chronometer 을 이용한 타이머"
+        android:gravity="center"
+        />
 
     <Chronometer
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        />
 
     <Button
         android:layout_width="match_parent"
