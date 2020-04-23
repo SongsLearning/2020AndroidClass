@@ -134,8 +134,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void resetTimer(){
-        if(editTextEnteredSecond.getText().equals("")){
+        if(editTextEnteredSecond.getText().toString().equals("")){
             Toast.makeText(this,"null",Toast.LENGTH_SHORT).show();
+            editTextEnteredSecond.setText(String.valueOf(fullTime));
             return;
         }
 
