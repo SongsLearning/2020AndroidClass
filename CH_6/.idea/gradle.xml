@@ -11,6 +11,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/countdowntimer" />
+            <option value="$PROJECT_DIR$/ex4boardgametimer" />
+            <option value="$PROJECT_DIR$/ex6-4timepickerdatepicker" />
+            <option value="$PROJECT_DIR$/example6-12_progressbar" />
+            <option value="$PROJECT_DIR$/example6-13scrolliew1v" />
+            <option value="$PROJECT_DIR$/example6-14scrollview" />
             <option value="$PROJECT_DIR$/example6-1textclock" />
             <option value="$PROJECT_DIR$/timer22" />
           </set>
