@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CH_6.iml" filepath="$PROJECT_DIR$/CH_6.iml" group="CH_6" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="CH_6/app" />
+      <module fileurl="file://$PROJECT_DIR$/countdowntimer/countdowntimer.iml" filepath="$PROJECT_DIR$/countdowntimer/countdowntimer.iml" group="CH_6/countdowntimer" />
+      <module fileurl="file://$PROJECT_DIR$/ex4boardgametimer/ex4boardgametimer.iml" filepath="$PROJECT_DIR$/ex4boardgametimer/ex4boardgametimer.iml" group="CH_6/ex4boardgametimer" />
+      <module fileurl="file://$PROJECT_DIR$/ex6-4timepickerdatepicker/ex6-4timepickerdatepicker.iml" filepath="$PROJECT_DIR$/ex6-4timepickerdatepicker/ex6-4timepickerdatepicker.iml" group="CH_6/ex6-4timepickerdatepicker" />
+      <module fileurl="file://$PROJECT_DIR$/example6-12_progressbar/example6-12_progressbar.iml" filepath="$PROJECT_DIR$/example6-12_progressbar/example6-12_progressbar.iml" group="CH_6/example6-12_progressbar" />
+      <module fileurl="file://$PROJECT_DIR$/example6-13scrolliew1v/example6-13scrolliew1v.iml" filepath="$PROJECT_DIR$/example6-13scrolliew1v/example6-13scrolliew1v.iml" group="CH_6/example6-13scrolliew1v" />
+      <module fileurl="file://$PROJECT_DIR$/example6-14scrollview/example6-14scrollview.iml" filepath="$PROJECT_DIR$/example6-14scrollview/example6-14scrollview.iml" group="CH_6/example6-14scrollview" />
+      <module fileurl="file://$PROJECT_DIR$/example6-1textclock/example6-1textclock.iml" filepath="$PROJECT_DIR$/example6-1textclock/example6-1textclock.iml" group="CH_6/example6-1textclock" />
+      <module fileurl="file://$PROJECT_DIR$/flag01/flag01.iml" filepath="$PROJECT_DIR$/flag01/flag01.iml" group="CH_6/flag01" />
+      <module fileurl="file://$PROJECT_DIR$/flag02/flag02.iml" filepath="$PROJECT_DIR$/flag02/flag02.iml" group="CH_6/flag02" />
+      <module fileurl="file://$PROJECT_DIR$/timer22/timer22.iml" filepath="$PROJECT_DIR$/timer22/timer22.iml" group="CH_6/timer22" />
+    </modules>
+  </component>
+</project>

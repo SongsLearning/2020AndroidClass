@@ -1,5 +1,5 @@
 rootProject.name='CH_6'
-include ':app', ':example6-15_viewflippe', ':fragment01H', ':fragment02H'
+include ':app'
 include ':example6-1textclock'
 include ':timer22'
 include ':countdowntimer'
@@ -8,6 +8,5 @@ include ':ex6-4timepickerdatepicker'
 include ':example6-12_progressbar'
 include ':example6-13scrolliew1v'
 include ':example6-14scrollview'
-project(':example6-15_viewflippe').projectDir = new File('example6-15_viewflipper')
-project(':fragment01H').projectDir = new File('fragment01')
-project(':fragment02H').projectDir = new File('fragment02')
+include ':flag01'
+include ':flag02'
