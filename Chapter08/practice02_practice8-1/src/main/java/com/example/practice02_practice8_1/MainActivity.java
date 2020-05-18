@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onDateChanged(DatePicker view, int year, int monthOfYear, int dayOfMonth) {
                 filename = String.format("%d_%d_%d.txt", year, monthOfYear, dayOfMonth);
-                String str = readDiary(filename);
+                String str = readDiary1(filename);
                 editText.setText(str);
                 btnWriter.setEnabled(true);
             }
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
        
     }
 
-    private String readDiary(String fileName) {
+    private String readDiary1(String fileName) {
         String str = null;
 
         try( BufferedReader bufferedReader = new BufferedReader(new FileReader(getFileStreamPath(fileName)))){
