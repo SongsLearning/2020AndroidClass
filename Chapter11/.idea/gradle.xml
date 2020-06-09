@@ -4,6 +4,7 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -15,10 +16,15 @@
             <option value="$PROJECT_DIR$/ex03_java" />
             <option value="$PROJECT_DIR$/ex03_listview_addmodifydelete" />
             <option value="$PROJECT_DIR$/ex04_listview_simpleadapter" />
+            <option value="$PROJECT_DIR$/ex06_listview_customadapter" />
+            <option value="$PROJECT_DIR$/java-ex07-customadapter" />
             <option value="$PROJECT_DIR$/java_addmodifydelete" />
+            <option value="$PROJECT_DIR$/java_ex05_listview_simpleadapter" />
+            <option value="$PROJECT_DIR$/java_ex06_listview_customadapter" />
             <option value="$PROJECT_DIR$/javalist" />
           </set>
         </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
