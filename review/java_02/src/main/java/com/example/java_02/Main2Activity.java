@@ -1,4 +1,4 @@
-package com.example.java_01;
+package com.example.java_02;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,24 +6,33 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 public class Main2Activity extends AppCompatActivity {
 
-    Button btn;
+    Button back;
+    TextView textView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+        textView = findViewById(R.id.textView);
+        back = findViewById(R.id.gomain);
 
-        btn = findViewById(R.id.btnBack);
+        Intent intent = getIntent();
 
-        btn.setOnClickListener(new View.OnClickListener() {
+
+        String s = intent.getStringExtra("str");
+
+        textView.setText(s);
+
+
+        back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
 
+                finish();
             }
         });
-
     }
 }

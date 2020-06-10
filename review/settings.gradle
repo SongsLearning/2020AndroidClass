@@ -1,3 +1,5 @@
 rootProject.name='review'
 include ':app'
 include ':java_01'
+include ':java_02'
+include ':java_03'
