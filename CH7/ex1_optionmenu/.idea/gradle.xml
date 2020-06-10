@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,12 +8,14 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../ex02context" />
+            <option value="$PROJECT_DIR$/../ex03contextmenu" />
+            <option value="$PROJECT_DIR$/../ex04toast" />
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/java_01" />
-            <option value="$PROJECT_DIR$/java_02" />
-            <option value="$PROJECT_DIR$/java_03" />
-            <option value="$PROJECT_DIR$/java_04" />
+            <option value="$PROJECT_DIR$/../exercise05_dialog" />
+            <option value="$PROJECT_DIR$/../practice7-1" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

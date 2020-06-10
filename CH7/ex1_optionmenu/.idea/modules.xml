@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CH7.iml" filepath="$PROJECT_DIR$/../CH7.iml" group="CH7" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="CH7/app" />
+      <module fileurl="file://$PROJECT_DIR$/../ex02context/ex02context.iml" filepath="$PROJECT_DIR$/../ex02context/ex02context.iml" group="CH7/ex02context" />
+      <module fileurl="file://$PROJECT_DIR$/../ex03contextmenu/ex03contextmenu.iml" filepath="$PROJECT_DIR$/../ex03contextmenu/ex03contextmenu.iml" group="CH7/ex03contextmenu" />
+      <module fileurl="file://$PROJECT_DIR$/../ex04toast/ex04toast.iml" filepath="$PROJECT_DIR$/../ex04toast/ex04toast.iml" group="CH7/ex04toast" />
+      <module fileurl="file://$PROJECT_DIR$/ex1_optionmenu.iml" filepath="$PROJECT_DIR$/ex1_optionmenu.iml" group="CH7/ex1_optionmenu" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise05_dialog/exercise05_dialog.iml" filepath="$PROJECT_DIR$/../exercise05_dialog/exercise05_dialog.iml" group="CH7/exercise05_dialog" />
+      <module fileurl="file://$PROJECT_DIR$/../practice7-1/practice7-1.iml" filepath="$PROJECT_DIR$/../practice7-1/practice7-1.iml" group="CH7/practice7-1" />
+    </modules>
+  </component>
+</project>
