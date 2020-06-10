@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Chapter08.iml" filepath="$PROJECT_DIR$/../Chapter08.iml" group="Chapter08" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="Chapter08/app" />
+      <module fileurl="file://$PROJECT_DIR$/../exercise04_permission/exercise04_permission.iml" filepath="$PROJECT_DIR$/../exercise04_permission/exercise04_permission.iml" group="Chapter08/exercise04_permission" />
+      <module fileurl="file://$PROJECT_DIR$/practice01_internalmemoryfileinputoutput.iml" filepath="$PROJECT_DIR$/practice01_internalmemoryfileinputoutput.iml" group="Chapter08/practice01_internalmemoryfileinputoutput" />
+      <module fileurl="file://$PROJECT_DIR$/../practice02_practice8-1/practice02_practice8-1.iml" filepath="$PROJECT_DIR$/../practice02_practice8-1/practice02_practice8-1.iml" group="Chapter08/practice02_practice8-1" />
+      <module fileurl="file://$PROJECT_DIR$/../practice03_rawfolder/practice03_rawfolder.iml" filepath="$PROJECT_DIR$/../practice03_rawfolder/practice03_rawfolder.iml" group="Chapter08/practice03_rawfolder" />
+      <module fileurl="file://$PROJECT_DIR$/../practice04_permission/practice04_permission.iml" filepath="$PROJECT_DIR$/../practice04_permission/practice04_permission.iml" group="Chapter08/practice04_permission" />
+      <module fileurl="file://$PROJECT_DIR$/../praticie05_sdcard/praticie05_sdcard.iml" filepath="$PROJECT_DIR$/../praticie05_sdcard/praticie05_sdcard.iml" group="Chapter08/praticie05_sdcard" />
+    </modules>
+  </component>
+</project>
