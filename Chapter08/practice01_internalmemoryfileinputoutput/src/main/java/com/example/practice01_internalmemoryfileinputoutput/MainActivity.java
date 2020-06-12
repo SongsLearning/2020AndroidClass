@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
                     case R.id.btnRead:
 
 
-                        try( FileInputStream fis = new FileInputStream(getFileStreamPath("myFile.txt"));){
+                        try( FileInputStream fis = new FileInputStream(getFileStreamPath("myFile.txt"))){
 
 
                             //textView.setText(String.valueOf(fis.read()));

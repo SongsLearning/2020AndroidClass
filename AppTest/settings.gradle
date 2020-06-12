@@ -1,0 +1,4 @@
+rootProject.name='AppTest'
+include ':app'
+include ':java02'
+include ':draw'
