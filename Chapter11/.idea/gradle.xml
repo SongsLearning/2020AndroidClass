@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/list_test" />
             <option value="$PROJECT_DIR$/ex01_listview" />
             <option value="$PROJECT_DIR$/ex02_listviewcustom" />
             <option value="$PROJECT_DIR$/ex03_java" />

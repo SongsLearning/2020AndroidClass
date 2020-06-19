@@ -48,8 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 dataList.add(editText.getText().toString());
                 adapter.notifyDataSetChanged();
                 editText.setText("");
-
-
             }
         });
     }
