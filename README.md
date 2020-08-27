@@ -1,6 +1,11 @@
 # 2020AndroidClass
 
 ## 5. Layout
+Linear  
+Grid  
+Table  
+Raelative  
+Frame  
 
 ## 6. Widget
 
